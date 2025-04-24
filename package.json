@@ -1,0 +1,15 @@
+{
+  "name": "discord-verify-bot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot for SA:MP verification using MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "mysql2": "^3.0.0",
+    "samp-query": "^0.1.5"
+  }
+}
